@@ -1,4 +1,5 @@
-<!-- CSS -->
-- z-index for navbar to always stay on top
-- position fixed
-- scroll-behavior: smooth;
+<!-- Mar 14th Changes -->
+
+- added bootstrap, changed #about to display dynamically
+- nav bar and toggle switch also display dynamically
+- changed background pattern (also figured out how to switch background onclick but it was too ugly :(  
